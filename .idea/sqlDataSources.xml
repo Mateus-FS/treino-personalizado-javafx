@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="41c477b6-82a5-4ef8-bc63-d220e10576a8" />
+          <option name="name" value="DDL data source" />
+          <option name="dbmsName" value="UNKNOWN" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/ddl_Exercicio.sql" />
+              <option value="file://$PROJECT_DIR$/ddl_SessaoTreino.sql" />
+              <option value="file://$PROJECT_DIR$/ddl_Treino.sql" />
+              <option value="file://$PROJECT_DIR$/ddl_Usuario.sql" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
