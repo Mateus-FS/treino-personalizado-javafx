@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal" created-in="IU-251.25410.129">
-    <data-source name="treino_db" uuid="1ba9c0bb-daa6-4e27-b01a-d11d1d6816ee">
-      <database-info product="H2" version="2.3.232 (2024-08-11)" jdbc-version="4.3" driver-name="H2 JDBC Driver" driver-version="2.3.232 (2024-08-11)" dbms="H2" exact-version="2.3.232" exact-driver-version="2.3">
-        <identifier-quote-string>&quot;</identifier-quote-string>
-      </database-info>
-      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
-      <secret-storage>master_key</secret-storage>
-      <user-name>user</user-name>
-      <schema-mapping>
-        <introspection-scope>
-          <node kind="database" qname="@">
-            <node kind="schema" qname="@" />
-          </node>
-        </introspection-scope>
-      </schema-mapping>
-    </data-source>
-    <data-source name="default@localhost" uuid="df0ae991-d58c-4de8-bb79-1bb29e54f63f">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" />
-      <secret-storage>master_key</secret-storage>
-      <schema-mapping />
-    </data-source>
-    <data-source name="treino-personalizado@localhost" uuid="d72c9c9a-34fc-4b35-8519-35c2c136a795">
+    <data-source name="treino_db" uuid="dfe282c7-235a-4fbb-a121-85d511bbbc33">
       <database-info product="PostgreSQL" version="17.5" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.7.3" dbms="POSTGRES" exact-version="17.5" exact-driver-version="42.7">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>

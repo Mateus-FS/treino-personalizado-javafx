@@ -17,6 +17,7 @@ public class UsuarioMapper {
             );
         }
         return new UsuarioResponseDTO(
+                usuario.getId(),
                 usuario.getNome(),
                 idadeCalculada,
                 usuario.getGenero(),
